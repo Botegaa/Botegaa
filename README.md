@@ -1,4 +1,4 @@
-Hi 👋 My name is Pedro 
+Hi 👋 I'm Pedro 
 ===============================
 
 * 🌍  I'm based in Santa Catarina, Brazil
