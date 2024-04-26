@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi 👋 My name is Pedro 
+===============================
 
-<!--
-**Botegaa/Botegaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍  I'm based in Santa Catarina, Brazil
+* 💻 21 Years old
+* ✉️  You can contact me at [botega321@gmail.com](mailto:botega321@gmail.com)
+* 🎓 Systems Development Analyst at CESUSC (2024-2025).
+  
+### Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+ <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+ </p>
+
+
+### Learning
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="#44D1FD" d="M144.934 38.0615L200.709 38L107.134 131.526L82.7472 155.777L55 127.996L144.934 38.0615ZM144.415 121.569C145.139 120.613 146.471 121.085 147.482 120.962L200.661 120.975L152.194 169.395L124.303 141.675L144.415 121.569Z"/><path fill="#1FBCFD" d="M96.5013 169.442L124.303 141.675L152.194 169.395L152.31 169.518L124.31 197.258L96.5013 169.442V169.442Z"/><path fill="#08589C" d="M124.31 197.258L152.31 169.518L200.681 217.937C182.461 217.978 164.247 217.923 146.034 217.964C144.996 218.196 144.354 217.247 143.691 216.66L124.31 197.258V197.258Z"/></svg>
+</p>
