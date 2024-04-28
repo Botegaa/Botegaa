@@ -1,9 +1,9 @@
 Hi 👋 I'm Pedro 
 ===============================
 
-* 🌍  I'm based in Santa Catarina, Brazil
+* 🌍 I'm based in Santa Catarina, Brazil
 * 💻 21 Years old
-* ✉️  You can contact me at [botega321@gmail.com](mailto:botega321@gmail.com)
+* ✉️ You can contact me at [botega321@gmail.com](mailto:botega321@gmail.com)
 * 🎓 Systems Development Analyst at CESUSC (2024-2025).
   
 ### Skills
