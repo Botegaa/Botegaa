@@ -1,7 +1,6 @@
-<div align ="center">
-<h3 align="center"> Hi, I'm Pedro 👋 </h3>
-<br/>
-<br/>
+<div align ="center"><h3 align="center"> Hi, I'm Pedro 👋 </h3>
+
+
 
 🌍 I'm based in Santa Catarina, Brazil 
   
@@ -10,8 +9,7 @@
 ✉️ You can contact me at   [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:botega321@gmail.com)
   
 🎓 Systems Development Analyst at CESUSC (2024-2025).
-
-  <br/>
+<br/>
 
 ###                 Skills
 
