@@ -11,8 +11,6 @@
   
 🎓 Systems Development Analyst at CESUSC (2024-2025).
 
-
-  <br/>
   <br/>
 
 ###                 Skills
@@ -27,7 +25,7 @@
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="36" height="36" alt="Git" /></a>
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  </p>
-<br/>
+
 
 ### Learning
 
@@ -38,13 +36,14 @@
 
    <br/>
    <br/>
-   <br/>
-<b>My GitHub Stats</b>
 
-
-
+⚙️ &nbsp;GitHub Analytics
 <br/>
-
-<a href="https://github.com/Botegaa" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botegaa&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<a href="https://github.com/Botegaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Botegaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Botegaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
   </div>
 </p>
