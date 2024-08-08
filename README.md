@@ -6,7 +6,7 @@
   
 💻 21 Years old
   
-✉️ You can contact me at   [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:botega321@gmail.com)
+✉️ You can contact me at  [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:botega321@gmail.com)
   
 🎓 Systems Development Analyst at CESUSC (2024-2025).
 <br/>
